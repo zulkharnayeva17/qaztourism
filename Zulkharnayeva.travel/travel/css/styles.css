@@ -1,0 +1,97 @@
+header{
+  background:Gray;
+  box-shadow: 3px 0 7px rgba(0,0,0,.3);
+  padding: 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-nav {
+  font-family: "Didot", "Arima", sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  padding: 20px;
+
+}
+
+
+.box {
+    height: 100vh;
+    background-image: url(kaz.jpg);
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 100px black;
+    color: #FFFFFF;
+}
+p{
+  font-size: 20px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+color: black;
+font-style: normal;
+font-weight: 100;
+font-family: monospace;
+}
+p1{
+  font-size: 30px;
+  color: white;
+
+}
+hr {
+  border-style :inset;
+  background-color: black;
+  height: 2px;
+}
+h{
+  font-size: 30px;
+color:gray;
+font-weight: bold;
+}
+
+h1{
+    background-position: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+h2{
+  font-weight: bold;
+
+}
+p2{
+  color:#8f8f8f;
+}
+
+
+.Kolsay{
+  padding-top: 200px;
+  margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+.emel{
+  padding-top: 100px;
+  margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+.Burabay{
+  padding-top: 100px;
+  margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+.ata{
+  padding-top: 100px;
+  margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.feature-box{
+  padding: 10%;
+}
+#testimonials{
+  padding: 5% 10%;
+    text-align: center;
+    background-color:#b8e6bf;
+}
